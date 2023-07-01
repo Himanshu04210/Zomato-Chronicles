@@ -1,0 +1,3 @@
+{"dishId": 1, "dishName": "Samosha", "dishPrice": 20, "dishAvailability": "no"}
+{"dishId": 2, "dishName": "Kachori", "dishPrice": 30, "dishAvailability": "yes"}
+{"dishId": 3, "dishName": "paneer", "dishPrice": 150, "dishAvailability": "yes"}
